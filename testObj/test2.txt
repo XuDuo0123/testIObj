@@ -1,3 +1,9 @@
 test2
 zxczxczxczxczxczxczxczxc
+<<<<<<< HEAD
 456456456
+=======
+123123123
+789789789
+>>>>>>> b6faf8ef1207877b5faa68eb475c70729e40a4f4
+test2 push
